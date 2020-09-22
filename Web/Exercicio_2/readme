@@ -1,0 +1,41 @@
+EXERCICIO PROPOSTO
+BRASÍLIA, 04 DE SETEMBRO DE 2020
+
+COMANDO DA ATIVIDADE
+Oriente-se pelos enunciados, pergunte pelo mural e faça o seu trabalho com excelência! Ok?!
+
+01) Peço que voltem ao arquivo da tabela gerado na aula de ontem e dupliquem-no;
+
+02) O novo arquivo deverá ter o nome index_04-09.html;
+
+03) Reorganize sua tabela, de modo que:
+	> A borda da tabela seja "1";
+	> Quanto à fonte, use somente estas três, podendo especificar mais de uma: Arial, Verdana e Times;
+	> O cabeçalho da tabela ficará será definido com thead. Peço também que a cor da fonte dele seja diferente do restante do texto. A escolha vai de acordo com a sua preferência. Se volte para algo mais sóbrio;
+	> O corpo será definido com tbody. Não será necessário usar tfoot;
+	> Lembre-se de usar toda a sua formatação a partir do CSS que será desenvolvido na própria página;
+	> Defina a língua em Português - Brasil e o grupo de caracteres UTF-8;
+	> Os tamanhos das fontes ficam à sua escolha, mas peço prudência, pois esta tabela deverá ter um rosto mais amigável, então cuidado com fontes enormes ou muito pequenas;
+	> Utilize uma cor sóbria e clara para o fundo da tabela; Caso queira, busque uma tabela de cores on-line;
+	> A sua tabela terá somente uma coluna, então remova o que for desnecessário neste momento;
+
+04) Preciso de que escreva as frases abaixo, linha a linha em sua tabela, todas alinhadas à esquerda, porém nos locais de acentos e demais caracteres especiais, por favor insira conforme o arquivo de orientação, também acesse os links sugeridos. Tenho certeza que isso vai te dar trabalho.. São elas:
+
+	Faz-se necessário alterar o período de carência, 3 (três) meses não é o recomendável, vale consultar o órgão nacional de vigilância sanitária.
+
+	O português tinha nos bolsos **EURO** 3,00 (três Euros). É pouquíssimo! Ele precisa pagar a cirurgia de **CORAÇÃO / HEART**. Se ele confiar no **SETA PARA CIMA**, a resposta virá!
+
+	Um hadouken é desencadeado com **SETA PARA BAIXO** **POSITIVO DENTRO DO CÍRCULO** **SETA PARA BAIXO** **POSITIVO DENTRO DO CÍRCULO** **SETA PARA DIREITA** **POSITIVO DENTRO DO CÍRCULO** soco. É infalível! É **MAIOR OU IGUAL** a um kamehameha, que salva-vidas!
+
+	A radiciação, representa por **SÍMBOLO DE RAIZ**. Ela é uma **SÍMBOLO DE MARCA REGISTRADA** da matemática do nível médio.
+
+
+Nas frases citadas acima, caso queira dar mais espaço entre um símbolo e outro, use o espaço em branco mencionado nas orientações.
+
+05) Insira uma linha em branco entre a linha que houver frase e a próxima. Desta forma teremos sempre uma linha em branco. Remova somente destas linhas a borda. Lembre-se que a borda em 0 pode lhe ajudar.
+
+06) Desative a propriedade Word Wrap de sua IDE e insira a quebra de palavras em ao menos 3 palavras de cada frase, faça por sílaba, ou somente no meio da palavra. Lembre-se de diferenciar qual quebra será utilizada para palavras com e sem hífen. Verifique caso a caso. Ao final, restaure a janela do navegador (contrário de maximizar) e verifique se redimensionar a tela, você consegue ver a quebra de palavras.
+
+07) Ao final cole a sua codificação como resposta deste questionamento em nosso mural.
+
+No mais, saiba que sou grato por poder contribuir para a melhora do teu currículo. Eu tenho certeza que aprendendo aquilo que ainda não sabe, avançará e conquistará o que não possui. Obrigado pela oportunidade, meu nobre futuro programador com currículo em frenética ascensão!

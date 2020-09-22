@@ -1,0 +1,22 @@
+#page-principal {
+  display: flex;
+  justify-content: center;
+}
+
+#page-principal .content{
+  font-size: 25px;
+  border-radius: 8px;    
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 80%;
+  align-items: center;
+  background: var(--color-shape);
+  margin-top: 10%;
+  border-color: var(--color-borders);
+}
+
+#page-principal .cabeca-table {
+  margin: 35px auto;
+  color: var(--color-text);
+}
