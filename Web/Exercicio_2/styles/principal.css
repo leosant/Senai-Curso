@@ -13,6 +13,7 @@
   align-items: center;
   background: var(--color-shape);
   margin-top: 10%;
+  padding:10px 10px 10px 10px;
   border-color: var(--color-borders);
 }
 
